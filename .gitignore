@@ -43,6 +43,8 @@ data/cache/*
 !data/results/.gitkeep
 !data/enzyme_targets.json
 !data/results/*
+# Database is tracked via Git LFS (see .gitattributes)
+!data/thermokp_database.db
 
 # Tools
 tools/*

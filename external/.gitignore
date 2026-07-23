@@ -14,6 +14,7 @@
 *.tar.gz
 *.zip
 *.tar
+dlkcat/src/DeeplearningApproach/Data/input/*
 __pycache__/
 .venv/
 env/

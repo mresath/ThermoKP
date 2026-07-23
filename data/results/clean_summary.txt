@@ -1,0 +1,16 @@
+2026-07-17 11:25:13  INFO      ============================================================
+2026-07-17 11:25:13  INFO      ThermoKP — Database Cleanup & Aggregator (Phase 1.2)
+2026-07-17 11:25:13  INFO      ============================================================
+2026-07-17 11:25:13  INFO      Connecting to /workspace/ThermoKP/data/thermokp_database.db
+2026-07-17 11:25:13  INFO      Loaded 26342 raw records from the database.
+2026-07-17 11:25:18  INFO      Dropped 2380 records due to high intra-group variance (max/min > 5.0x).
+2026-07-17 11:25:18  INFO      Aggregated into 21983 unique clean pairs (removed 1979 duplicates).
+2026-07-17 11:25:18  INFO      Dropped 57 records belonging to top-level EC classes with < 100 samples.
+2026-07-17 11:25:18  INFO      Dropped 155 records with a non-positive kcat or Km (undefined in log-space).
+2026-07-17 11:25:18  INFO      Set aside 564 records across 50 enzymes (24 carrying mutants) into benchmark_parameters.
+2026-07-17 11:25:18  INFO      Database cleanly overwritten with 21207 cleaned & aggregated records.
+2026-07-17 11:25:18  INFO      ==========================================================================
+2026-07-17 11:25:18  INFO      ==                   Cleanup & Aggregation Summary                      ==
+2026-07-17 11:25:18  INFO      ==========================================================================
+2026-07-17 11:25:18  INFO      Status                    : Complete
+2026-07-17 11:25:18  INFO      ==========================================================================

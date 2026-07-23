@@ -1,0 +1,22 @@
+# Ignore external model weights, virtual environments, and downloaded raw databases
+# DO NOT ignore run scripts or download_assets.sh
+*.pt
+*.pth
+*.h5
+*.hdf5
+*.pkl
+*.db
+*.csv
+*.tsv
+*.fasta
+*.fasta.gz
+*.csv.gz
+*.tar.gz
+*.zip
+*.tar
+__pycache__/
+.venv/
+env/
+
+# Pretrained UniKP model weights are tracked via Git LFS (see .gitattributes)
+!unikp/UniKP/*.pkl

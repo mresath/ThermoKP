@@ -1,0 +1,59 @@
+# Python & Environments
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv/
+env/
+venv/
+ENV/
+
+# Jupyter & IDEs
+.ipynb_checkpoints
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# PyTorch & Model Weights
+*.pt
+*.pth
+*.ckpt
+models/*
+!models/.gitkeep
+# Trained model checkpoints are tracked via Git LFS (see .gitattributes)
+!models/*.pth
+runs/
+tb_logs/
+wandb/
+
+# Data & Large Files (Keep the folder structure, ignore the heavy files)
+# data/*
+data/raw/*
+data/processed/*
+data/cache/*
+*.db
+*.csv
+*.json
+*.pdb
+*.sdf
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!data/cache/.gitkeep
+!data/results/.gitkeep
+!data/enzyme_targets.json
+!data/results/*
+
+# Tools
+tools/*
+!tools/.gitkeep
+
+# OS Specific
+.DS_Store
+Thumbs.db
+
+# External Model Artifacts
+external/catpred/data/
+external/catpred/results/
+external/**/wget-log
+*.json.gz

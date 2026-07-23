@@ -1,0 +1,46 @@
+entry_id=22 uniprot_id=Q3MHS3 mutation='': [TKP-009] Co-substrate conformer generation failed for Q3MHS3.
+entry_id=33 uniprot_id=Q3MHS3 mutation='': [TKP-006] Could not resolve primary substrate '3alpha-hydroxyhexobarbital' to a SMILES string.
+entry_id=46 uniprot_id=Q3MHS3 mutation='': [TKP-006] Could not resolve primary substrate '9alpha,11alpha-prostaglandin f2' to a SMILES string.
+entry_id=62 uniprot_id=P15877 mutation='N452T': [TKP-004] Mutation N452T mismatch (raw: 'K', offset: 'K').
+entry_id=63 uniprot_id=P15877 mutation='N462H': [TKP-004] Mutation N462H mismatch (raw: 'H', offset: 'H').
+entry_id=65 uniprot_id=P15877 mutation='N452T': [TKP-004] Mutation N452T mismatch (raw: 'K', offset: 'K').
+entry_id=66 uniprot_id=P15877 mutation='N462H': [TKP-004] Mutation N462H mismatch (raw: 'H', offset: 'H').
+entry_id=94 uniprot_id=A0A6G2W9K1; A0A1G6NPX3 mutation='': [TKP-001] Could not fetch a sequence for UniProt ID 'A0A6G2W9K1; A0A1G6NPX3'.
+entry_id=95 uniprot_id=A0A6G2W9K1; A0A1G6NPX3 mutation='': [TKP-001] Could not fetch a sequence for UniProt ID 'A0A6G2W9K1; A0A1G6NPX3'.
+entry_id=96 uniprot_id=A0A6G2W9K1; A0A1G6NPX3 mutation='': [TKP-001] Could not fetch a sequence for UniProt ID 'A0A6G2W9K1; A0A1G6NPX3'.
+entry_id=98 uniprot_id=A0A6G2W9K1; A0A1G6NPX3 mutation='': [TKP-001] Could not fetch a sequence for UniProt ID 'A0A6G2W9K1; A0A1G6NPX3'.
+entry_id=114 uniprot_id=Q0J8A4 mutation='F37L': [TKP-009] Co-substrate conformer generation failed for Q0J8A4.
+entry_id=115 uniprot_id=Q0J8A4 mutation='F37T': [TKP-009] Co-substrate conformer generation failed for Q0J8A4.
+entry_id=116 uniprot_id=Q0J8A4 mutation='': [TKP-009] Co-substrate conformer generation failed for Q0J8A4.
+entry_id=144 uniprot_id=Q68EJ0 mutation='H62A': [TKP-004] Mutation H62A mismatch (raw: 'L', offset: 'L').
+entry_id=145 uniprot_id=Q68EJ0 mutation='H62M': [TKP-004] Mutation H62M mismatch (raw: 'L', offset: 'L').
+entry_id=146 uniprot_id=Q68EJ0 mutation='H85A': [TKP-004] Mutation H85A mismatch (raw: 'Y', offset: 'Y').
+entry_id=147 uniprot_id=Q68EJ0 mutation='H85M': [TKP-004] Mutation H85M mismatch (raw: 'Y', offset: 'Y').
+entry_id=150 uniprot_id=Q68EJ0 mutation='H62A': [TKP-004] Mutation H62A mismatch (raw: 'L', offset: 'L').
+entry_id=151 uniprot_id=Q68EJ0 mutation='H62M': [TKP-004] Mutation H62M mismatch (raw: 'L', offset: 'L').
+entry_id=152 uniprot_id=Q68EJ0 mutation='H85A': [TKP-004] Mutation H85A mismatch (raw: 'Y', offset: 'Y').
+entry_id=153 uniprot_id=Q68EJ0 mutation='H85M': [TKP-004] Mutation H85M mismatch (raw: 'Y', offset: 'Y').
+entry_id=178 uniprot_id=Q14164 mutation='': [TKP-006] Could not resolve primary substrate 'ikb-alpha' to a SMILES string.
+entry_id=179 uniprot_id=Q14164 mutation='': [TKP-006] Could not resolve primary substrate 'ikb-beta' to a SMILES string.
+entry_id=298 uniprot_id=F9VMT6 mutation='Y229F': [TKP-004] Mutation Y229F mismatch (raw: 'V', offset: 'V').
+entry_id=299 uniprot_id=F9VMT6 mutation='Y348F': [TKP-004] Mutation Y348F mismatch (raw: 'T', offset: 'T').
+entry_id=330 uniprot_id=P54716 mutation='': [TKP-006] Could not resolve primary substrate 'phenyl 6-phospho-beta-d-glucoside' to a SMILES string.
+entry_id=331 uniprot_id=P54716 mutation='': [TKP-006] Could not resolve primary substrate 'phenyl 6-phospho-beta-d-glucoside' to a SMILES string.
+entry_id=356 uniprot_id=P81988 mutation='': [TKP-009] Pocket prediction failed for P81988.
+entry_id=390 uniprot_id=P03962 mutation='Q215A/Y271F': [TKP-004] Mutation Y271F mismatch (raw: None, offset: None).
+entry_id=441 uniprot_id=P0A877 mutation='P98S': [TKP-004] Mutation P98S mismatch (raw: 'G', offset: 'G').
+entry_id=474 uniprot_id=P0A877 mutation='P98S': [TKP-004] Mutation P98S mismatch (raw: 'G', offset: 'G').
+entry_id=500 uniprot_id=P0A877 mutation='P98S': [TKP-004] Mutation P98S mismatch (raw: 'G', offset: 'G').
+entry_id=510 uniprot_id=P0A877 mutation='G395S': [TKP-004] Mutation G395S mismatch (raw: None, offset: None).
+entry_id=511 uniprot_id=P0A877 mutation='G395S/A191T': [TKP-004] Mutation G395S mismatch (raw: None, offset: None).
+entry_id=520 uniprot_id=U5TV35 mutation='S9N/A125V': [TKP-004] Mutation A125V mismatch (raw: 'D', offset: 'D').
+entry_id=522 uniprot_id=U5TV35 mutation='A11T/S106C/N170D/M227T/D542G': [TKP-004] Mutation D542G mismatch (raw: 'T', offset: 'T').
+entry_id=526 uniprot_id=Q04760 mutation='': [TKP-006] Could not resolve primary substrate 'glutathione ethyl ester-methylglyoxal hemithioacetal' to a SMILES string.
+entry_id=527 uniprot_id=Q04760 mutation='': [TKP-006] Could not resolve primary substrate 'glutathione isopropyl ester-methylglyoxal hemithioacetal' to a SMILES string.
+entry_id=534 uniprot_id=Q04760 mutation='': [TKP-006] Could not resolve primary substrate 'n1-glutathionylspermidine-methylglyoxal hemithioacetal' to a SMILES string.
+entry_id=536 uniprot_id=Q04760 mutation='': [TKP-006] Could not resolve primary substrate 'trypanothione-methylglyoxal hemithioacetal' to a SMILES string.
+entry_id=553 uniprot_id=P0AC19 mutation='': [TKP-009] Pocket prediction failed for P0AC19.
+entry_id=554 uniprot_id=P0AC19 mutation='': [TKP-009] Pocket prediction failed for P0AC19.
+entry_id=555 uniprot_id=P0AC19 mutation='': [TKP-009] Pocket prediction failed for P0AC19.
+entry_id=562 uniprot_id=P9WG47 mutation='E221K/D225K/E228K/R236E/H244A': [TKP-004] Mutation E221K mismatch (raw: 'G', offset: 'R').
+entry_id=564 uniprot_id=A0A0A2SLZ4 mutation='': [TKP-009] PDB download failed for A0A0A2SLZ4.

@@ -1,0 +1,1 @@
+Entry 17684 (O09460): The size of tensor a (534) must match the size of tensor b (313) at non-singleton dimension 2

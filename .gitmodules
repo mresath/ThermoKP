@@ -1,0 +1,12 @@
+[submodule "external/dlkcat/src"]
+	path = external/dlkcat/src
+	url = https://github.com/SysBioChalmers/DLKcat.git
+[submodule "external/unikp/src"]
+	path = external/unikp/src
+	url = https://github.com/Luo-SynBioLab/UniKP.git
+[submodule "external/catpred/src"]
+	path = external/catpred/src
+	url = https://github.com/maranasgroup/CatPred.git
+[submodule "external/catpred/CatPred-DB"]
+	path = external/catpred/CatPred-DB
+	url = https://github.com/maranasgroup/CatPred-DB.git

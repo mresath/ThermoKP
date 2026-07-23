@@ -1,0 +1,288 @@
+(2-naphthyl)methyl-myo-inositol
+(2s)-lactyl-2-diphospho-5'-adenosine
+(3-hydroxymethyl)-phenoxymethylpenicillin
+(7-methoxycoumarin-4-yl)acetyl-ala-pro-lys-(2,4-dinitrophenyl)
+(beta-(13-hydroperoxy-cis-9, trans-11-octadecadienoyl)-gamma-palmitoyl)-l-alpha-phosphatidylcholine
+(cal flour red 610)-thr-ser-ala-val-leu-gln-ser-gly-phe-arg-(bhq-1)
+(meso) d-glycero-d-allo-heptitol
+(meso) d-glycero-d-gulo-heptitol
+(meso) d-glycero-l-altro-heptitol
+(r)-alpha-cyano(6-methoxy-2-naphthyl)-methyl-(1r)-cis-3-(2,2-dichlorovinyl)-2,2-dimethylcyclopropane carboxylate
+(r)-alpha-cyano(6-methoxy-2-naphthyl)-methyl-(1r)-trans-3-(2,2-dichlorovinyl)-2,2-dimethylcyclopropane carboxylate
+(r)-alpha-cyano(6-methoxy-2-naphthyl)-methyl-(1s)-cis-3-(2,2-dichlorovinyl)-2,2-dimethylcyclopropane carboxylate
+(r)-alpha-cyano(6-methoxy-2-naphthyl)-methyl-(1s)-trans-3-(2,2-dichlorovinyl)-2,2-dimethylcyclopropane carboxylate
+(r)-alpha-cyano(6-methoxy-2-naphthyl)-methyl-(2r)-2-(4-chlorophenyl)-3-methyl butanoate
+(r)-s-lactoyltrypanothione
+(s)-alpha-cyano(6-methoxy-2-naphthyl)-methyl-(1r)-cis-3-(2,2-dichlorovinyl)-2,2-dimethylcyclopropane carboxylate
+(s)-alpha-cyano(6-methoxy-2-naphthyl)-methyl-(1r)-trans-3-(2,2-dichlorovinyl)-2,2-dimethylcyclopropane carboxylate
+(s)-alpha-cyano(6-methoxy-2-naphthyl)-methyl-(1s)-cis-3-(2,2-dichlorovinyl)-2,2-dimethylcyclopropane carboxylate
+(s)-alpha-cyano(6-methoxy-2-naphthyl)-methyl-(1s)-trans-3-(2,2-dichlorovinyl)-2,2-dimethylcyclopropane carboxylate
+(s)-alpha-cyano(6-methoxy-2-naphthyl)-methyl-(2r)-2-(4-chlorophenyl)-3-methyl butanoate
+(s)-alpha-cyano(6-methoxy-2-naphthyl)-methyl-(2s)-2-(4-chlorophenyl)-3-methyl butanoate
+(z)-3-fluoro-phosphoenolpyruvate
+1,2-diacyl-3-o-(beta-d-glucopyranosyl)-sn-glycerol
+1,4-beta-d-mannan
+1,n6-ethenoadenosine 5'-diphosphate
+1-(3-methoxy-4-hydroxy)-2-(2-methoxyphenoxy)-1,3-dihydroxypropane
+1-fluoro-3-hydroxyacetonephosphate
+1-o-hexadecyl glycerone phosphate
+1-octadecyllysophosphatidic cid
+1-r,s-cis-permethrin
+1-rs-trans-permethrin
+2,3-dinitrophenyl-beta-d-galactopyranoside
+2,4,6-trichlorophenyl-beta-d-xylopyranoside
+2,4-dinitrophenyl-alpha-d-glucopyranoside
+2,4-dinitrophenyl-beta-cellobioside
+2,5-dinitrophenyl-beta-d-galactopyranoside
+2-aminobenzoyl-lpetgg-diaminopropionic acid(dinitrophenyl)-nh2
+2-aminobenzoyl-svtlqsg-tyr(no2)-r
+2-aminobenzoyl-tsavlqsgfrk-2,4-dinitrophenyl amide
+2-aminopurine 2'-deoxyribonucleoside
+2-aminopurine arabinonucleoside
+2-aminopurine ribonucleoside
+2-ethylthio-(6s,8r)hydroxyethylpeneme
+2-naphthyl-beta-d-xylopyranoside
+20-cho-6-trans-12-epi-leukotriene b4
+20-cho-leukotriene b4
+20alpha-isocortisol
+2n h+
+2n nadph
+3'-d-phenylalanyl-floxuridine
+3'-d-valyl-floxuridine
+3'-dephospho-coa-disulfide
+3'-l-aspartyl-floxuridine
+3'-l-isoleucyl-floxuridine
+3'-l-leucyl-floxuridine
+3'-l-lysyl-floxuridine
+3'-l-phenylalanyl-floxuridine
+3'-l-prolyl-floxuridine
+3'-l-valyl-floxuridine
+3,10-difluoric-2-hydroxy-6-oxo-6-phenylhexa-2,4-dienoate
+3,4-dinitrophenyl-3-o-beta-cellobiosyl-beta-d-glucoside
+3,4-dinitrophenyl-beta-d-galactopyranoside
+3,5-dihydroxy-4'-o-methoxystilbene
+3,5-dinitrophenyl-beta-d-galactopyranoside
+3-beta-d-glucosido chenodeoxycholic acid
+3-beta-d-glucosido lithocholic acid
+3-fluoro-phosphoenolpyruvate
+3alpha-hydroxyhexobarbital
+3beta-hydroxyhexobarbital
+4,4'-diphosphopantethine
+4,5-dihydroisochorismate
+4,6-o-benzylidene-4-nitrophenyl-alpha-d-maltoheptaoside
+4-bromophenyl-beta-d-galactopyranoside
+4-hydroxybenzoyl-(3'-dephospho)-coa
+4-methylumbelliferyl alpha-d-sialosyl-(2->3)-beta-d-galactopyranoside
+4-methylumbelliferyl-2-acetamido-2-deoxy-3-o-(beta-d-galactopyranosyl)-beta-d-glucopyranoside
+4-methylumbelliferyl-2-deoxy-3-o-(beta-d-galactopyranosyl)-2-trifluoroacetamido-beta-d-glucopyranoside
+4-methylumbelliferyl-3-o-beta-cellobiosyl-beta-d-glucoside
+4-methylumbelliferyl-3-o-beta-cellotetrasyl-beta-d-glucoside
+4-methylumbelliferyl-3-o-beta-cellotriosyl-beta-d-glucoside
+4-methylumbelliferyl-beta-d-xylobioside
+4-methylumbelliferyl-d-glucopyranoside-beta-1,4-d-xylopyranoside
+4-nitrophenyl beta-isoprimeverose
+4-nitrophenyl-alpha-d-maltoheptaoside-4,6-o-ethylidene
+4-o-methoxyphenyl-beta-d-xylopyranoside
+5'-cinnamic acid-floxuridin
+5'-d-phenylalanyl-floxuridine
+5'-d-valyl-floxuridine
+5'-l-aspartyl-floxuridine
+5'-l-isoleucyl-floxuridine
+5'-l-leucyl-floxuridine
+5'-l-lysyl-floxuridine
+5'-l-phenylalanyl-floxuridine
+5'-l-prolyl-floxuridine
+5'-l-valyl-floxuridine
+5'-ppprna
+5,4'-dihydroxy-3-o-methoxystilbene
+5-fam-tsatlqsgfrk(qxl520)-nh2
+5-fluoro-4-methylumbelliferyl phosphate
+6-alpha-(1-hydroxy-1-methylethyl)-penicillanate
+6-alpha-(1-hydroxyethyl)-penicillanate
+6-alpha-hydroxymethylpenicillanate
+6-beta-(1-hydroxy-1-methylethyl)-penicillanate
+6-beta-(1-hydroxyethyl)-penicillanate
+6-beta-furylacryloylamidopenicillanic acid
+6-beta-hydroxymethylpenicillanate
+6-fluoro-4-methylumbelliferyl phosphate
+8-fluoro-4-methylumbelliferyl phosphate
+9,10-antraquinone-2-sulfonate
+9alpha,11alpha-prostaglandin f2
+abz-lyqppqtsitsavlqsgfrk(dnp)-nh2
+abz-qtsitsavlqsgfrk(dnp)-nh2
+abz-savlqsgfrk(dnp)-nh2
+abz-savlqsgfrkmafpsgk(dnp)-nh2
+abz-savlqsgfrkmak(dnp)-nh2
+abz-sgadvlyqppqtsitsavlqsgfrk(dnp)-nh2
+abz-thr-ser-ala-val-leu-gln-ser-gly-phe-arg-tyr(no2)gly-nh2
+ac-lvsadnidis
+ac-val-glu-ile-asp-7-amino-4-trifluoromethylcoumarin
+acetylated acetyl-coa synthetase
+adenosine-1-oxide 5'-diphosphate
+adrenocorticotropic hormone 1-39
+aflatoxin b1 dihydrodiol
+aggrecan
+alpha-1,4-(2-deoxyglucosyl)-(glucose)4
+alpha-2,8-alpha-2,9-linked polymer of sialic acid
+alpha-2-3-sialosylparagloboside
+alpha-d-man-(1->3)-beta-d-man-(1->4)-beta-d-glcnac-(1->4)-alpha-d-glcnac-diphosphodolichol
+alpha-d-man-(1->6)-beta-d-man-(1->4)-beta-d-glcnac-(1->4)-alpha-d-glcnac-diphosphodolichol
+amidorphin
+angiotensinogen
+apelin-13
+arg-ile-arg-thr-gln-ser-phe-ser-leu-gln-glu-arg-gln-leu-arg-gly
+bckdh
+benzyloxycarbonyl-d-ala-gly-gly-leu-ala
+benzyloxycarbonyl-gly-leu-gly-d-ala
+benzylpenicillin methyl ester
+beta-3-acetyl-deamino-nadh
+beta-3-pyridinealdehyde-deamino-nadh
+beta-d-glcnac-(1->4)-mur2ac(oyl-l-ala-gamma-d-glu-l-lys-d-ala-d-ala)-diphospho-ditrans,octacis-undecaprenol
+beta-l-2',3'-dideoxy-3'-thiacytidine-monophosphate
+beta-ngdh
+big endothelin-1
+bis-alpha-methylspermine
+carbenicillin methyl ester
+cdpribose
+cellopentaitol
+cerebroside 3-sulfate
+cgp-17520a
+cgp-31608a
+cholecystokinin (13-33)
+cidofovir monophosphate
+cis-homo(4)-aconitate
+cis-syn cyclobutadipyrimidine
+cyclic-nadph
+d-2'-deoxycarbocyclic guanosine
+d-ala-leu-enkephalinamide
+d-apulose 4-phosphate
+d-ddcmp
+d-erythro-dodecanoyl-7-nitrobenz-2-oxa-1,3-diazolylceramide
+d-histidine nicotianamine
+dabcyl-knstlqsglrke-edans
+dabcyl-ktsavlqsgfrkme-edans
+deacetylcephalosporin c lactone
+ded(edans)kpilffrlgk(dabcyl)e
+dexamethasone-cephem-methotrexate
+dtdp-2-deoxyfucose
+dynorphin a (1-13)
+dynorphin b (1-13)
+erythro-1,2,3-octanetriol
+fibrinogen
+fragmin-actin complex
+gal-beta1->3galnac-beta1->3gal-alpha1->4gal-beta1->4glc
+gal-beta1->4glcnac(6-sulfate)-beta1->3gal(6-sulfate)-beta1->4glcnac 6-sulfate
+galnac-alpha1-dmt
+galnac-alpha1-o-phenyl
+galnac-beta1->3glcnac-beta-pnp
+galnac-beta1->3glcnac-beta1->4man-alpha-4-methylumbelliferone
+gd1b
+gdpribose
+gggg-beta-cnp
+glucuronyl-glucosamine
+glutathione isopropyl ester-methylglyoxal hemithioacetal
+grggfggrggfrggrgg-nh2
+gt1b
+h-d-ile-pro-arg-p-nitroanilide
+h-gpfvdrqtaqaagtdt-nh2
+h-kvatvqskmsd-nh2
+hfpqfpsysas
+hip-his-leu-nh2
+ikb-alpha
+ikb-beta
+inosine-1-oxide 5'-diphosphate
+l-1-fluorodeoxyglycerol 3-phosphate
+l-2'-deoxycarbocyclic guanosine
+l-alanyl-p-nitroanilide
+l-alpha-ethyl glutamate
+l-alpha-methyl glutamate
+l-arginyl-p-nitroanilide
+l-dihydroorotate 6'-methylester
+l-leucinyl-p-nitroanilide
+l-lysyl-p-nitroanilide
+lamin a
+leu-asn(glcnac5man3gal3)-asn-ser-arg
+ljc 10,627
+lysw-c-terminal-l-glutamate
+m-methylbenzyl-myo-inositol
+m-nitrophenyl-beta-d-galactoside
+man-beta(1-4)man-beta(1-4)man-beta(1-4)man-beta(1-4)man
+mannose-alpha-1,3-glucose-beta-1,4-glucose-diphosphate-polyisoprenyl
+mca-avlqsgfr-lys(dnp)-lys-nh2
+met-enkephalin-arg
+met-enkephalin-lys
+met1-linked ubiquitin dimer
+methoxysuccinyl-ala-ala-pro-val-7-(4-methyl)coumarylamide
+methoxysuccinyl-lys(2-picolinoyl)-ala-pro-val-4-nitroanilide
+methyl 6-phospho-beta-d-glucoside
+methylumbelliferyl-beta-cellobioside
+mlsalarpvgaalrrsfstsa
+n1-glutathionylspermidine-methylglyoxal hemithioacetal
+n2-acetyl-n6-(1-hydroxy-2-oxopropyl)lysine
+n6-methyl-3',5'-adenosine bisphosphate
+nalpha-acetyl-l-lys-d-ala-d-thiolactate
+nepsilon-dihydrolipoyllysine
+nepsilon-lipoyllysine
+neurotensin
+nma-glu-phe-gln-met-gln-gly-gln-val-lys(dnp)-d-arg-d-arg
+nma-tsavlqsgfrk(dnp)-nh2
+o-methylbenzyl-myo-inositol
+o-nitrophenyl-alpha-maltoside
+orotate 6'-methylester
+osmium complex
+oxidized azurin
+oxidized glutaredoxin
+oxidized pseudoazurin
+oxidized rubredoxin
+p-erk2
+p-methylbenzyl-myo-inositol
+p-nitrophenyl beta-d-thioglucoside 6-phosphate
+p-nitrophenyl-alpha-sulfoquinovoside
+p-toluenesulfonyl-gly-pro-arg-7-amino-4-methylcoumarin
+p-toluenesulfonyl-gly-pro-lys-7-amino-4-methylcoumarin
+p53-k372
+peroxiredoxin-(s-hydroxy-s-oxocysteine)
+phenyl alpha-d-maltoside
+phloretin 3'-c-beta-d-glucoside
+poly(alpha-l-guluronate-1,4-beta-d-mannuronate)
+poly(butylene succinate-co-adipate)
+pro-met(o)-ala-ile-lys-lys
+prolyl-p-nitroanilide
+prothrombin
+pterin-6-carboxylate
+quinonoid 6,7-dimethyl dihydropterin
+r-sh
+reduced glutaredoxin
+reduced pseudoazurin
+rhamnogalacturonan i
+s-(+)-3-methylbutan-2-ol
+s-3,3-dimethylbutyl thioacetate
+s-glutathionyl benzoate
+samp2 dimer
+sialyl-alpha-(2,3)-lactose
+sialyl-alpha-(2,6)-lactose
+sialylated fetuin
+sitsavlq-pna
+sitsavlq-pnp
+sitsavlqsgfrkma
+sl-adp
+sl-atp
+spoiiaa
+succinyl-ala-ala-pro-val-7-(4-methyl)coumarylamide
+succinyl-yvad-7-amino-4-methylcoumarin
+succinyl-yvad-p-nitroanilide
+t-butoxycarbonyl-gln-gly-arg-7-amino-4-methylcoumarin
+t-butyloxycarbonyl-ala-ala-gly-p-nitroanilide
+ticaracillin
+trans-2,cis-(4,7,10,13,16,19)-docosaheptaenoyl-coa
+trans-2,trans-4-hexadienoyl-coa
+trans-cinnamyl-myo-inositol
+trypanothione-methylglyoxal hemithioacetal
+ubiquitin fused c-terminal to alanine-tryptophan
+ubiquitin fused c-terminal to tryptophan-alanine
+ubiquitin-amc
+udp-acetylmuramyl-ala-glu-dap-ala-ala
+vamp1
+xllg-beta-cnp
+xxxg-beta-cnp
+xyloglucan

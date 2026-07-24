@@ -2,7 +2,7 @@
 
 `ThermoKP` is a thermodynamically constrained, physics-informed neural network (PINN) that predicts enzyme kinetic constants ($k_{cat}$, $K_m$) directly from a protein's sequence, its predicted 3D structure, and the molecular graphs of its substrates. A hard-parameter-sharing multimodal encoder extracts a shared representation which branches into thermodynamically constrained heads, so that macroscopic kinetics are always derived from physically bounded microscopic rate constants rather than fit as free scalars.
 
-By combining Eyring/Arrhenius transition-state theory with hard physical bounds on the underlying rate constants (the Smoluchowski diffusion limit and the transition-state-theory speed limit), ThermoKP acts as an *amortized predictor*: it produces physically consistent, zero-shot $k_{cat}$/$K_m$ estimates for uncharacterized enzymes without requiring any experimental data at inference time. Sequence and structural signal is further augmented with frozen pretrained representations — per-residue ESM2 protein embeddings and whole-molecule ChemBERTa-2 ligand embeddings — supplying evolutionary and chemical context beyond what is available from structure alone.
+By combining Eyring/Arrhenius transition-state theory with hard physical bounds on the underlying rate constants (the Smoluchowski diffusion limit and the transition-state-theory speed limit), ThermoKP acts as an *amortized predictor*: it produces physically consistent, zero-shot $k_{cat}$ & $K_m$ estimates for uncharacterized enzymes without requiring any experimental data at inference time. Sequence and structural signal is further augmented with frozen pretrained representations — per-residue ESM2 protein embeddings and whole-molecule ChemBERTa-2 ligand embeddings — supplying evolutionary and chemical context beyond what is available from structure alone.
 
 ---
 
@@ -66,8 +66,8 @@ The 3D structural pipeline (`src/data/processors/geometry_processor.py`) predict
 
 1. **Local Development:** Data acquisition, curation, and tensor generation run locally via the scripts under `src/data/scripts/`.
 2. **Cloud Training:** Pull this repository onto a GPU-equipped machine and run `train.py` (or `train_baseline_nn.py` for the ablation control) to train the full network.
-3. **Zero-Shot Inference:** Run `thermokp.py` with a UniProt ID (optionally with a point mutation) and a substrate list (database-style chemical names or SMILES strings) to receive instant, biophysically bounded $k_{cat}$/$K_m$ predictions. See `src/evaluation/evaluate_dataset.py` for evaluating this pipeline against the withheld benchmark holdout.
-4. **Interactive Dashboard:** Run `streamlit run dashboard/app.py` for a local, interactive demo of the same zero-shot inference path — single-query and CSV batch predictions, a PINN/baseline model toggle, derived $k_{cat}$/$K_m$ and (PINN-only) $k_1$/$k_{-1}$/$\Delta G^{\ddagger}$/$\kappa$ quantities, and an interactive py3Dmol view of the predicted structure, binding pocket, and any queried mutation site.
+3. **Zero-Shot Inference:** Run `thermokp.py` with a UniProt ID (optionally with a point mutation) and a substrate list (database-style chemical names or SMILES strings) to receive instant, biophysically bounded $k_{cat}$ & $K_m$ predictions. See `src/evaluation/evaluate_dataset.py` for evaluating this pipeline against the withheld benchmark holdout.
+4. **Interactive Dashboard:** Run `streamlit run dashboard/app.py` for a local, interactive demo of the same zero-shot inference path — single-query and CSV batch predictions, a PINN/baseline model toggle, derived $k_{a} = k_{cat} / K_m$ and (PINN-only) $k_1$, $k_{-1}$, $\Delta G^{\ddagger}$, $\kappa$ quantities, and an interactive py3Dmol view of the predicted structure, binding pocket, and any queried mutation site.
 
 ## Data Sources
 

@@ -1,0 +1,16 @@
+2026-08-11 23:52:14  INFO      ============================================================
+2026-08-11 23:52:14  INFO      ThermoKP — Database Cleanup & Aggregator
+2026-08-11 23:52:14  INFO      ============================================================
+2026-08-11 23:52:14  INFO      Connecting to /Users/halmeh/Desktop/Projects/Python/ThermoKP/data/thermokp_database.db
+2026-08-11 23:52:14  INFO      Loaded 35763 raw records from the database.
+2026-08-11 23:52:23  INFO      Dropped 9779 records due to high intra-group variance (max/min > 10.0x) or outlier removal.
+2026-08-11 23:52:23  INFO      Aggregated into 19939 unique clean pairs (removed 6045 duplicates).
+2026-08-11 23:52:23  INFO      Dropped 24 records belonging to top-level EC classes with < 100 samples.
+2026-08-11 23:52:23  INFO      Dropped 96 records with a non-positive kcat or Km (undefined in log-space).
+2026-08-11 23:52:23  INFO      Set aside 976 records across 250 enzymes (52 carrying mutants) into benchmark_parameters.
+2026-08-11 23:52:23  INFO      Database cleanly overwritten with 18843 cleaned & aggregated records.
+2026-08-11 23:52:23  INFO      ==========================================================================
+2026-08-11 23:52:23  INFO      ==                   Cleanup & Aggregation Summary                      ==
+2026-08-11 23:52:23  INFO      ==========================================================================
+2026-08-11 23:52:23  INFO      Status                    : Complete
+2026-08-11 23:52:23  INFO      ==========================================================================

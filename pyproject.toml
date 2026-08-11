@@ -1,0 +1,54 @@
+[project]
+name = "thermokp"
+version = "0.1.0"
+description = "A Physics-Informed Machine Learning Framework for Enzyme Kinetics"
+readme = "README.md"
+requires-python = ">=3.12,<3.13"
+dependencies = [
+    "accelerate>=1.14.0",
+    "aiohttp>=3.14.1",
+    "biopython>=1.87",
+    "fastapi>=0.139.2",
+    "lxml>=6.1.1",
+    "matplotlib>=3.11.0",
+    "numpy>=2.5.0",
+    "openpyxl>=3.1.5",
+    "pandas>=3.0.3",
+    "pandas-stubs>=3.0.3.260530",
+    "pydantic>=2.13.4",
+    "py3dmol>=2.5.2",
+    "pyright>=1.1.411",
+    "python-dotenv>=1.2.2",
+    "rdkit>=2026.3.3",
+    "requests>=2.34.2",
+    "rowan>=1.3.2",
+    "sankeyflow>=0.4.1",
+    "scikit-learn>=1.9.0",
+    "scipy>=1.18.0",
+    "sentencepiece>=0.2.2",
+    "streamlit>=1.51.0",
+    "torch==2.5.1",
+    "torch-geometric>=2.8.0",
+    "transformers>=4.51.0,<4.52.0",
+    "types-pyyaml>=6.0.12.20260518",
+    "types-requests>=2.33.0.20260518",
+    "wandb>=0.28.0",
+    "zeep>=4.3.3",
+]
+
+[tool.pyrefly]
+disable-search-path-heuristics = true
+search-path = ["."]
+
+[dependency-groups]
+dev = [
+    "pyrefly>=1.1.1",
+]
+
+[tool.uv.sources]
+torch = [{ index = "pytorch-cu121", marker = "sys_platform == 'linux'" }]
+
+[[tool.uv.index]]
+name = "pytorch-cu121"
+url = "https://download.pytorch.org/whl/cu121"
+explicit = true

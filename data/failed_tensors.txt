@@ -1,0 +1,155 @@
+Entry 563 (P35430): Pocket prediction failed for P35430.
+Entry 564 (P35430): Pocket prediction failed for P35430.
+Entry 565 (P35430): Pocket prediction failed for P35430.
+Entry 566 (P35430): Pocket prediction failed for P35430.
+Entry 567 (P35430): Pocket prediction failed for P35430.
+Entry 568 (P35430): Pocket prediction failed for P35430.
+Entry 569 (P35430): Pocket prediction failed for P35430.
+Entry 574 (P35430): Pocket prediction failed for P35430.
+Entry 585 (P35430): Pocket prediction failed for P35430.
+Entry 596 (P35430): Pocket prediction failed for P35430.
+Entry 597 (P35430): Pocket prediction failed for P35430.
+Entry 598 (P35430): Pocket prediction failed for P35430.
+Entry 599 (P35430): Pocket prediction failed for P35430.
+Entry 600 (P35430): Pocket prediction failed for P35430.
+Entry 602 (P35430): Pocket prediction failed for P35430.
+Entry 605 (P35430): Pocket prediction failed for P35430.
+Entry 3060 (Q8GR64): Ligand conformer generation failed for Q8GR64.
+Entry 3076 (P81747): Pocket prediction failed for P81747.
+Entry 3077 (P81747): Pocket prediction failed for P81747.
+Entry 3078 (P81747): Pocket prediction failed for P81747.
+Entry 3079 (P81747): Pocket prediction failed for P81747.
+Entry 3080 (P81747): Pocket prediction failed for P81747.
+Entry 3081 (P81747): Pocket prediction failed for P81747.
+Entry 3082 (P81747): Pocket prediction failed for P81747.
+Entry 3083 (P81747): Pocket prediction failed for P81747.
+Entry 3084 (P81747): Pocket prediction failed for P81747.
+Entry 3085 (P81747): Pocket prediction failed for P81747.
+Entry 3086 (P81747): Pocket prediction failed for P81747.
+Entry 3087 (P81747): Pocket prediction failed for P81747.
+Entry 3088 (P81747): Pocket prediction failed for P81747.
+Entry 3089 (P81747): Pocket prediction failed for P81747.
+Entry 3090 (P81747): Pocket prediction failed for P81747.
+Entry 3091 (P81747): Pocket prediction failed for P81747.
+Entry 3092 (P81747): Pocket prediction failed for P81747.
+Entry 3093 (P81747): Pocket prediction failed for P81747.
+Entry 3094 (P81747): Pocket prediction failed for P81747.
+Entry 3095 (P81747): Pocket prediction failed for P81747.
+Entry 3096 (P81747): Pocket prediction failed for P81747.
+Entry 3097 (P81747): Pocket prediction failed for P81747.
+Entry 3098 (P81747): Pocket prediction failed for P81747.
+Entry 3099 (P81747): Pocket prediction failed for P81747.
+Entry 3100 (P81747): Pocket prediction failed for P81747.
+Entry 3101 (P81747): Pocket prediction failed for P81747.
+Entry 3102 (P81747): Pocket prediction failed for P81747.
+Entry 3103 (P81747): Pocket prediction failed for P81747.
+Entry 3104 (P81747): Pocket prediction failed for P81747.
+Entry 3105 (P81747): Pocket prediction failed for P81747.
+Entry 3106 (P81747): Pocket prediction failed for P81747.
+Entry 3107 (P81747): Pocket prediction failed for P81747.
+Entry 3108 (P81747): Pocket prediction failed for P81747.
+Entry 3109 (P81747): Pocket prediction failed for P81747.
+Entry 3110 (P81747): Pocket prediction failed for P81747.
+Entry 3111 (P81747): Pocket prediction failed for P81747.
+Entry 3112 (P81747): Pocket prediction failed for P81747.
+Entry 3113 (P81747): Pocket prediction failed for P81747.
+Entry 3114 (P81747): Pocket prediction failed for P81747.
+Entry 3115 (P81747): Pocket prediction failed for P81747.
+Entry 3116 (P81747): Pocket prediction failed for P81747.
+Entry 3118 (P81747): Pocket prediction failed for P81747.
+Entry 3117 (P81747): Pocket prediction failed for P81747.
+Entry 3119 (P81747): Pocket prediction failed for P81747.
+Entry 3120 (P81747): Pocket prediction failed for P81747.
+Entry 3121 (P81747): Pocket prediction failed for P81747.
+Entry 3122 (P81747): Pocket prediction failed for P81747.
+Entry 3123 (P81747): Pocket prediction failed for P81747.
+Entry 3124 (P81747): Pocket prediction failed for P81747.
+Entry 3125 (P81747): Pocket prediction failed for P81747.
+Entry 3126 (P81747): Pocket prediction failed for P81747.
+Entry 3127 (P81747): Pocket prediction failed for P81747.
+Entry 3128 (P81747): Pocket prediction failed for P81747.
+Entry 3231 (P86351): Pocket prediction failed for P86351.
+Entry 3446 (P86351): Pocket prediction failed for P86351.
+Entry 3495 (P37062): Ligand conformer generation failed for P37062.
+Entry 3506 (P37062): Co-substrate conformer generation failed for P37062.
+Entry 3639 (P81422): Pocket prediction failed for P81422.
+Entry 3884 (Q92PC8): Pocket prediction failed for Q92PC8.
+Entry 4030 (P82679): Pocket prediction failed for P82679.
+Entry 4031 (P82679): Pocket prediction failed for P82679.
+Entry 4032 (P82679): Pocket prediction failed for P82679.
+Entry 4033 (P82679): Pocket prediction failed for P82679.
+Entry 4038 (A0A0H3LLR0): Pocket prediction failed for A0A0H3LLR0.
+Entry 4040 (A0A0H3LLR0): Pocket prediction failed for A0A0H3LLR0.
+Entry 4098 (Q00459): Pocket prediction failed for Q00459.
+Entry 4291 (P14791): Ligand conformer generation failed for P14791.
+Entry 4482 (P84468): Pocket prediction failed for P84468.
+Entry 4483 (P84469): Pocket prediction failed for P84469.
+Entry 4484 (P84468): Pocket prediction failed for P84468.
+Entry 4485 (P84469): Pocket prediction failed for P84469.
+Entry 4707 (Q7M188): Pocket prediction failed for Q7M188.
+Entry 4742 (Q7M188): Pocket prediction failed for Q7M188.
+Entry 4945 (P84463): Pocket prediction failed for P84463.
+Entry 4946 (P84463): Pocket prediction failed for P84463.
+Entry 4948 (P84463): Pocket prediction failed for P84463.
+Entry 5286 (Q28943): Sequence for Q28943 has 1025 residues, exceeding ESM2's 1022-residue context window. dataset_validator.py should have dropped this entry.
+Entry 5514 (P11310): Co-substrate conformer generation failed for P11310.
+Entry 5515 (P41367): Co-substrate conformer generation failed for P41367.
+Entry 5519 (P11310): Co-substrate conformer generation failed for P11310.
+Entry 5520 (P41367): Co-substrate conformer generation failed for P41367.
+Entry 5523 (P11310): Co-substrate conformer generation failed for P11310.
+Entry 5525 (P11310): Ligand conformer generation failed for P11310.
+Entry 5524 (P41367): Co-substrate conformer generation failed for P41367.
+Entry 5526 (P11310): Ligand conformer generation failed for P11310.
+Entry 5527 (P11310): Co-substrate conformer generation failed for P11310.
+Entry 5528 (P41367): Co-substrate conformer generation failed for P41367.
+Entry 5531 (P11310): Co-substrate conformer generation failed for P11310.
+Entry 5532 (P41367): Co-substrate conformer generation failed for P41367.
+Entry 5537 (P11310): Co-substrate conformer generation failed for P11310.
+Entry 5538 (P41367): Co-substrate conformer generation failed for P41367.
+Entry 5831 (P0C2D4): Pocket prediction failed for P0C2D4.
+Entry 5834 (P0C2D4): Pocket prediction failed for P0C2D4.
+Entry 5838 (P0C2D4): Pocket prediction failed for P0C2D4.
+Entry 5842 (P0C2D4): Pocket prediction failed for P0C2D4.
+Entry 5844 (P0C2D4): Pocket prediction failed for P0C2D4.
+Entry 5848 (P0C2D4): Pocket prediction failed for P0C2D4.
+Entry 5851 (P0C2D4): Pocket prediction failed for P0C2D4.
+Entry 5853 (P0C2D4): Pocket prediction failed for P0C2D4.
+Entry 5858 (P0C2D4): Pocket prediction failed for P0C2D4.
+Entry 5859 (P0C2D7): Pocket prediction failed for P0C2D7.
+Entry 5862 (P0C2D4): Pocket prediction failed for P0C2D4.
+Entry 5865 (P0C2D4): Pocket prediction failed for P0C2D4.
+Entry 5866 (P0C2D7): Pocket prediction failed for P0C2D7.
+Entry 5869 (P0C2D4): Pocket prediction failed for P0C2D4.
+Entry 5871 (P0C2D4): Pocket prediction failed for P0C2D4.
+Entry 5873 (P0C2D4): Pocket prediction failed for P0C2D4.
+Entry 5875 (P0C2D4): Pocket prediction failed for P0C2D4.
+Entry 5876 (P0C2D7): Pocket prediction failed for P0C2D7.
+Entry 5879 (P0C2D4): Pocket prediction failed for P0C2D4.
+Entry 5882 (P0C2D4): Pocket prediction failed for P0C2D4.
+Entry 5883 (P0C2D4): Pocket prediction failed for P0C2D4.
+Entry 6028 (P00383): Pocket prediction failed for P00383.
+Entry 6064 (P00383): Pocket prediction failed for P00383.
+Entry 6138 (P84468): Pocket prediction failed for P84468.
+Entry 6291 (Q68EJ0): Ligand conformer generation failed for Q68EJ0.
+Entry 6292 (Q68EJ0): Co-substrate conformer generation failed for Q68EJ0.
+Entry 6293 (Q68EJ0): Co-substrate conformer generation failed for Q68EJ0.
+Entry 6298 (O58049): Pocket prediction failed for O58049.
+Entry 6327 (O29904): Co-substrate conformer generation failed for O29904.
+Entry 6328 (P0A8G6): Co-substrate conformer generation failed for P0A8G6.
+Entry 6332 (O29904): Co-substrate conformer generation failed for O29904.
+Entry 6333 (P0A8G6): Co-substrate conformer generation failed for P0A8G6.
+Entry 6517 (P97224): Pocket prediction failed for P97224.
+Entry 6565 (Q9MYZ4): Pocket prediction failed for Q9MYZ4.
+Entry 6583 (Q9WYT0): Pocket prediction failed for Q9WYT0.
+Entry 7914 (Q48676): Pocket prediction failed for Q48676.
+Entry 7953 (P80225): Pocket prediction failed for P80225.
+Entry 7954 (P80225): Pocket prediction failed for P80225.
+Entry 8198 (P80225): Pocket prediction failed for P80225.
+Entry 8199 (P80225): Pocket prediction failed for P80225.
+Entry 6684 (Q48924): Ligand conformer generation failed for Q48924.
+Entry 6683 (Q48924): Co-substrate conformer generation failed for Q48924.
+Entry 8498 (Q50EJ2): Co-substrate conformer generation failed for Q50EJ2.
+Entry 8499 (Q50EJ2): Co-substrate conformer generation failed for Q50EJ2.
+Entry 8502 (Q50EJ2): Co-substrate conformer generation failed for Q50EJ2.
+Entry 8500 (Q50EJ2): Co-substrate conformer generation failed for Q50EJ2.
+Entry 8501 (Q50EJ2): Co-substrate conformer generation failed for Q50EJ2.
